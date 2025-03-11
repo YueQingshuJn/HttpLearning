@@ -21,3 +21,4 @@ Content-Type: application/json
     "status": "OK"
 }
 ```
+**请求方式**
